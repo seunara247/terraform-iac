@@ -21,12 +21,14 @@ This project uses Terraform to:
 ## Steps to Deploy
 
 1. Clone this repo:https://github.com/seunara247/terraform-iac.git
- using bash
+
+  using bash:
+
   git clone https://github.com/seunara247/terraform-iac.git/terraform-iac.git
   
   cd terraform-iac
 
-2.Initialize Terraform 
+2. Initialize Terraform 
 
 terraform init
 
@@ -50,8 +52,7 @@ Take screenshots of:
 
 Place them in `/screenshots` folder in your repo.
 
-
-### ✅ Final Step: Push to GitHub
+### Final Step: Push to GitHub
 
 using bashbash
 
